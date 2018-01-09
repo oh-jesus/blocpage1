@@ -58,8 +58,7 @@
           <td>regular, diet, root beer, or orange</td>
           <td>$1.00</td>
         </tr>
-        </tbody>
-       
+       </tbody>
        </table>
     </section>
     <footer>This is where any content in the footer would go</footer>
